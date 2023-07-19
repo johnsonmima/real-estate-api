@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C4CB1F47-1B58-458D-AFEB-954D06F2F63C}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealEstate/appsettings.Development.json">
+    <Files>
+      <File FileName="RealEstate/appsettings.Development.json" Line="10" Column="1" />
+      <File FileName="RealEstate/appsettings.json" />
+      <File FileName="RealEstate/Program.cs" />
+      <File FileName="RealEstate/Models/Category.cs" />
+      <File FileName="RealEstate/Data/ApiDbContext.cs" />
+      <File FileName="RealEstate/Migrations/20230719024633_InitialCreate.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealEstate" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="RealEstate" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RealEstate PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
